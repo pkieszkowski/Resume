@@ -21,11 +21,7 @@ h3 {
     padding-bottom: 1em;
 }
 
-    main { 
-        display: grid;
-        grid-template-columns: 38% 62%;
-        margin-top: 3em;
-    }
+  
 
    
     header {
